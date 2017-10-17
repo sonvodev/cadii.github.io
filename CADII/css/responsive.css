@@ -1,0 +1,955 @@
+/* Extra Large Devices, Wide Screens */
+@media only screen and (max-width : 1600px) {
+.slider-area .slider-1 .title-container div.title2 { padding: 0 0 0 40%;}
+.blog-slider .single-blog-area .single-blog2 .blog-content { padding: 0px 0 0 0px;}
+.slider-area .slider-3 .title-container h1,
+.slider-area .slider-1 .title-container h1 {font-size: 48px;}
+.product-testimonial-area,
+.product-counter-area{padding: 60px 0;}
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+.slider-area .slider-1 .title-container div.title2 { padding: 0 0 0 38%;}
+.blog-slider .single-blog-area .single-blog2 .blog-content { padding: 0px 0 0 0px;}  
+header .main-menu ul li.megamenu .mega-menu-area {left: -260%;}
+/*Home Page*/
+header .main-menu ul li {
+  padding: 30px 8px;
+}
+.page-header-area {
+  padding: 60px 0;
+}
+.page-header-area h2 {
+  font-size: 24px;
+}
+.loginregistration-area .login-area fieldset .btn-send {
+  padding: 10px 24px;
+}
+.loginregistration-area .registration-area fieldset .btn-send {
+  font-size: 12px;
+}
+.blog-area .single-blog .blog-details h3 a {
+  float: left;
+  margin-bottom: 20px;
+}
+.fashion-collection-area .best-collection {
+   padding: 90px 35px;
+}
+.fashion-collection-area .best-collection .collect-details p {
+  padding-right: 285px;
+}
+.counter-down .simply-section {
+  width: 82px;
+}
+.footer-top .widget .footer-three .social-media ul li a {
+  padding: 0 8px;
+}
+.our-special-feature-area .total-features .single-feature .details h3 a {
+  font-size: 20px;
+}
+.single-blog-page-area .blog-content-area blockquote {
+  margin-left: 0;
+}
+.error-page-area .error-text::before {
+  background-position:180px 0;
+}
+.error-page-area .error-text {
+  padding: 177px 36px 0;
+}
+.error-page-area .error-text input[type="submit"] {
+  right: 47px;
+}
+/* Spacing Issues */
+.cart-page-area .shopping-cart-form {  margin-top: 60px;}
+.home-two-collection-area,
+.home-three-new-arival-area {padding: 0 0 60px;}
+.fashion-static-block-area {padding: 100px 0 60px;}
+#feature-product{padding-bottom: 60px;}
+.fashion-collection-area,
+.product-testimonial-area,
+.new-arival-area,
+.testimonial-area,
+.blog-area,
+.subscribe-area,
+.our-special-feature-area,
+.footer-top,
+.our-special-feature-area.color-two,
+.product-show-category-area,
+.blog-area-two,
+.partner-area,
+.promo-area,
+.about-area,
+.counter-up-area,
+.team-area,
+.single-product-area,
+.single-product-area .product-descriptions,
+.cart-page-area,
+.checkout-page-area,
+.loginregistration-area,
+.single-blog-page-area,
+.shop-page-area,
+.contact-area,
+.error-page-area{padding: 60px 0;}
+/*--Responsive Issue V1--*/
+.slider-area .slider-3 .title-container h1,
+.slider-area .slider-2 h1,
+.slider-area .slider-1 .title-container h1 {font-size: 36px;}
+.slider-area .slider-3 .title-container div.title2 { padding: 0 20% 0 0;}
+.slider-area .slider-3 .title-container div.slider-botton {margin-top: 35px;}
+.slider-area.home-two .slider-2 div.title2 {padding: 0 43% 0 0 !important;}
+.slider-area .slider-2 div.title2 {padding: 0 25%;}
+.slider-area.slider-three .slider-3 .title-container div.title2 { padding-right: 45%;}
+.home-two-collection-area .new-trend-men { padding: 50px 35px;}
+.fashion-static-block-area .single-static-block .informations { top: 12px; right: 0;  width: 250px;  margin-right: 0;}
+.blog-slider .single-blog-area .single-blog2 .blog-content h3,
+.blog-slider .single-blog-area .single-blog2 .blog-content .read-more,
+.blog-slider .single-blog-area .single-blog2 .blog-content h2 { margin: 0;}
+.loginregistration-area .registration-area h2,
+.loginregistration-area .login-area h2{font-size: 18px;}
+
+
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+/*Home Page*/
+header .main-menu ul li {
+  padding: 25px 8px 10px;
+}
+.page-header-area {
+  padding: 60px 0;
+}
+.page-header-area h2 {
+  font-size: 24px;
+}
+.loginregistration-area .login-area fieldset .btn-send {
+  padding: 10px 24px;
+}
+.loginregistration-area .registration-area fieldset .btn-send {
+  font-size: 12px;
+}
+.blog-area .single-blog .blog-details h3 a {
+  float: left;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+.fashion-collection-area .best-collection {
+  padding: 55px 35px;
+}
+.fashion-collection-area .best-collection .collect-details p {
+  padding-right: 0;
+}
+.counter-down .simply-section {
+  width: 82px;
+}
+.footer-top .widget .footer-three .social-media ul li a {
+  padding: 0 8px;
+}
+.our-special-feature-area .total-features .single-feature .details h3 a {
+	font-size: 15px;
+}
+.logo-area {
+  text-align: center;
+}
+header .header-right ul{
+	text-align: center;
+}
+header .header-right ul li {
+  padding: 10px 20px;
+}
+.slider-area .slider-1 .title-container div.title2 {
+  padding: 0 0 20px 29%;
+}
+.footer-top .widget .footer-two ul li a {
+  font-size: 14px;
+}
+.slider-area .slider-3 .title-container h1 {
+  font-size: 40px;
+
+}
+.slider-area .slider-3 .title-container div.title2 {
+	font-size: 16px;
+	padding: 0 40px 0 0;
+}
+.header-two {
+  background: #333333 none repeat scroll 0 0;
+  position: inherit;
+
+}
+.details > p {
+  font-size: 14px;
+}
+.home-two-collection-area .new-trend-men {
+  padding: 23px 35px;
+}
+.product-counter-area {
+  padding: 30px 0;
+}
+.text-content h2 {
+  font-size: 36px;
+}
+.blog-area-two .single-blog2 .blog-content {
+  padding: 15px 0 0 90px;
+}
+.partner-area .partner ul li {
+  border: medium none !important;
+}
+.slider-area .slider-1 .title-container div.slider-botton {
+  margin-top:6px;
+}
+.main-menu-three .header-right{display: none;}
+.main-menu-three .main-menu ul li.megamenu .mega-menu-area {
+  left: -275px;
+  width: 748px;
+
+}
+.header-area-three .social-area ul {
+  text-align: center;
+}
+.header-area-three .header-right ul {
+  padding: 13px 0 0;
+  text-align: center;
+}
+.header-area-three .social-area {
+  margin-bottom: 20px;
+}
+.slider-area .slider-1 .title-container h1 {
+  font-size: 30px;
+  margin: 0;
+}
+.fashion-static-block-area .single-static-block .informations p {
+  display: none;
+}
+.counter-down .simply-section {
+  width: 86px;
+}
+.promo-area .promo h2 {
+  font-size: 28px;
+}
+.counter-up-area .ab-count .about-counter-list {
+  margin-bottom: 20px;
+}
+.slider-area .slider-2 div.title2 {
+  padding: 0px 18%;
+}
+.slider-area .slider-2 h1 {
+  font-size: 36px;
+  margin: 0px 0 0;
+}
+.slider-area .slider-2 div.slider-botton ul li.acitve a,
+.slider-area .slider-3 .title-container div.slider-botton ul li.acitve a {
+  font-size: 13px;
+  font-weight: 400;
+  padding: 5px 15px;
+}
+.slider-area .slider-2 div.slider-botton ul li a,
+.slider-area .slider-3 .title-container div.slider-botton ul li a{
+  font-size: 13px;
+  font-weight: 400;
+  padding: 5px 15px;
+}
+.slider-area .slider-2 div.slider-botton,
+.slider-area .slider-3 .title-container div.slider-botton {
+  margin-top: 15px;
+}
+.slider-area .slider-3 .title-container div.title2 {
+  padding: 0;
+}
+.slider-area .slider-3 .title-container h1 {
+  font-size: 25px;
+}
+.home-two-collection-area .images a img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.blog-area-two .single-blog2 .blog-image {
+  margin-bottom: 15px;
+}
+.slider-area .slider-1 .title-container div.title2 {
+  font-size: 14px;
+}
+.fashion-static-block-area .single-static-block .informations { top: 12px; right: 0;  width: 250px;  margin-right: 0;}
+.blog-slider .single-blog-area .single-blog2 .blog-content h3,
+.blog-slider .single-blog-area .single-blog2 .blog-content .read-more,
+.blog-slider .single-blog-area .single-blog2 .blog-content h2 { margin: 0;}
+.loginregistration-area .registration-area h2,
+.loginregistration-area .login-area h2{font-size: 18px;}
+header .main-menu ul li.megamenu .mega-menu-area {width: 730px;}
+.fashion-collection-area .best-collection .collect-details p{display: none;}
+.fashion-collection-area .best-collection {    padding: 97px 20px;}
+.footer-top .widget {    margin-bottom: 30px;}
+.blog-area .single-blog { padding: 10px 10px 48px 10px;}
+.home-three-new-arival-area .new-arival-slider .single-arival .arival-information h3 a {font-size: 22px;}
+.footer-top .widget .footer-three .social-media ul{text-align: left;}
+.loginregistration-area .login-area {padding: 0px 0 30px 0;}
+
+
+
+
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+.header-area{display: none;}
+.main-menu-three{display:none;}
+.mobile-menu-area{display: block;}
+/*Home Page*/
+header .main-menu ul li {
+  padding: 30px 8px;
+}
+.page-header-area {
+  padding: 60px 0;
+}
+.page-header-area h2 {
+  font-size: 24px;
+}
+.loginregistration-area .login-area fieldset .btn-send {
+  padding: 10px 24px;
+}
+.loginregistration-area .registration-area fieldset .btn-send {
+  font-size: 12px;
+}
+.blog-area .single-blog .blog-details h3 a {
+  float: inherit;
+  margin-bottom: 20px;
+}
+.fashion-collection-area .best-collection {
+   padding: 90px 35px;
+}
+.fashion-collection-area .best-collection .collect-details p {
+  padding-right:0px;
+}
+.counter-down .simply-section {
+  width: 82px;
+}
+.footer-top .widget .footer-three .social-media ul li a {
+  padding: 0 8px;
+}
+.our-special-feature-area .total-features .single-feature .details h3 a {
+  font-size: 20px;
+}
+.single-blog-page-area .blog-content-area blockquote {
+  margin-left: 0;
+}
+.error-page-area .error-text::before {
+  background-position:180px 0;
+}
+.error-page-area .error-text {
+  padding: 0px 20px;
+}
+.error-page-area .error-text input[type="submit"] {
+  right: 47px;
+}
+/* Spacing Issues */
+.cart-page-area .shopping-cart-form {  margin-top: 60px;}
+.home-two-collection-area,
+.home-three-new-arival-area {padding: 0 0 60px;}
+.fashion-static-block-area {padding: 100px 0 60px;}
+#feature-product{padding-bottom: 60px;}
+.fashion-collection-area,
+.product-testimonial-area,
+.new-arival-area,
+.testimonial-area,
+.blog-area,
+.subscribe-area,
+.our-special-feature-area,
+.footer-top,
+.our-special-feature-area.color-two,
+.product-show-category-area,
+.blog-area-two,
+.partner-area,
+.promo-area,
+.about-area,
+.counter-up-area,
+.team-area,
+.single-product-area,
+.single-product-area .product-descriptions,
+.cart-page-area,
+.checkout-page-area,
+.loginregistration-area,
+.single-blog-page-area,
+.shop-page-area,
+.contact-area,
+.error-page-area,
+.fashion-static-block-area{padding: 60px 0;}
+.slider-area .slider-1 .title-container div.slider-botton ul li a {
+  font-size: 10px;
+  padding: 7px 15px;
+}
+.slider-area .slider-1 .title-container div.slider-botton ul li.acitve a {
+  font-size: 10px;
+  padding: 7px 15px;
+}
+.slider-area .slider-2 h1{
+  color: #ffffff;
+}
+.fashion-collection-area .maen-wear .images a img {
+  width: 100%;
+}
+.fashion-collection-area .men-shoes .images a img,
+.fashion-collection-area .men-belt .images a img {
+  margin: 0 0 10px;
+  width: 100%;
+}
+.tab-button ul.nav.nav-tabs a {
+  padding: 10px;
+}
+.total-product .owl-buttons {
+  top: -40px;
+}
+.total-product {
+  margin-left: 0;
+}
+.product-testimonial-area .total-product-testimonial .single-product-testimonial {
+  padding-right: 0;
+}
+.subscribe-area .subscribe h2 {
+  font-size: 24px;
+}
+.subscribe-area .subscribe form {
+ margin-left: 0; 
+}
+.subscribe-area .subscribe form button {
+  margin-left: 15px;
+}
+.widget {
+  margin-bottom: 30px;
+}
+.footer-buttom p {
+  text-align: center;
+}
+.footer-buttom img {
+  display: none;
+}
+.home-three-new-arival-area .new-arival-slider .single-arival {
+  margin-bottom: 30px;
+}
+.shop-page-area .shop-area .tobar-area {
+  text-align: center;
+}
+.showing-result,
+.single-product-area .single-product-image {
+  margin-bottom: 20px;
+}
+.shop-page-area .product-list-view-area .list-single-product .media a {
+  float: inherit !important;
+  margin-right: 0;
+}
+.cart-page-area .shopping-cart-form .shopping-cart-form-left {
+   padding: 20px;
+}
+.cart-page-area .shopping-cart-form .shopping-cart-form-left form input {
+margin-bottom: 10px;
+}
+.loginregistration-area {
+  padding: 30px 0;
+}
+.blog-content-area > h3 {
+  font-size: 20px;
+}
+.single-blog-page-area .post-share .tags {
+  width: 100%;
+}
+.single-blog-page-area .post-share .social-shear {
+  text-align: left;
+  width: 100%;
+}
+.google-map {
+  margin-bottom: 30px;
+}
+.error-page-area .error-text::before {
+  display: none;
+}
+.error-text > h3{
+  font-size: 20px;
+  margin: 0 0 6px;
+}
+.error-page-area .error-text h2 {
+  font-size: 36px;
+  margin-bottom: 18px;
+}
+.loginregistration-area .registration-area h2,
+.loginregistration-area .login-area h2{font-size: 18px;}
+header .main-menu ul li.megamenu .mega-menu-area {width: 730px;}
+.fashion-collection-area .best-collection .collect-details p{display: none;}
+.fashion-collection-area .best-collection {    padding: 97px 20px;}
+.footer-top .widget {    margin-bottom: 30px;}
+.blog-area .single-blog { padding: 10px 10px 48px 10px;}
+.home-three-new-arival-area .new-arival-slider .single-arival .arival-information h3 a {font-size: 22px;}
+.footer-top .widget .footer-three .social-media ul{text-align: left;}
+.loginregistration-area .login-area {padding: 0px 0 30px 0;}
+.slider-area .slider-2 div.title2 { font-size: 14px;}
+.slider-area.home-two .slider-2 div.title2 {    padding: 0 1% 0 0 !important;}
+.slider-area.slider-three .slider-3 .title-container div.title2 {padding-right: 2px; font-size: 14px;}
+.about-content {    margin-bottom: 30px;}
+.single-blog-page-area .sidebar-area{margin-top: 30px;}
+.slider-area .slider-2 h1 {  font-size: 24px;}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+  .header-area{display: none;}
+  .main-menu-three{display:none;}
+  .mobile-menu-area{display: block;}
+  /*Home Page*/
+  header .main-menu ul li {
+    padding: 30px 8px;
+  }
+  .page-header-area {
+    padding: 60px 0;
+  }
+  .page-header-area h2 {
+    font-size: 24px;
+  }
+  .loginregistration-area .login-area fieldset .btn-send {
+    padding: 10px 24px;
+  }
+  .loginregistration-area .registration-area fieldset .btn-send {
+    font-size: 12px;
+  }
+  .blog-area .single-blog .blog-details h3 a {
+    float: inherit;
+    margin-bottom: 20px;
+  }
+  .fashion-collection-area .best-collection {
+     padding: 15px;
+  }
+  .fashion-collection-area .best-collection .collect-details p {
+    padding-right:0px;
+  }
+  .counter-down .simply-section {
+    width:115px;
+  }
+  .footer-top .widget .footer-three .social-media ul li a {
+    padding: 0 8px;
+  }
+  .our-special-feature-area .total-features .single-feature .details h3 a {
+    font-size: 20px;
+  }
+  .single-blog-page-area .blog-content-area blockquote {
+    margin-left: 0;
+  }
+  .error-page-area .error-text::before {
+    background-position:180px 0;
+  }
+  .error-page-area .error-text {
+    padding: 0px 20px;
+  }
+  .error-page-area .error-text input[type="submit"] {
+    right: 47px;
+  }
+  /* Spacing Issues */
+  .cart-page-area .shopping-cart-form {  margin-top: 60px;}
+  .home-two-collection-area,
+  .home-three-new-arival-area {padding: 0 0 60px;}
+  .fashion-static-block-area {padding: 100px 0 60px;}
+  #feature-product{padding-bottom: 60px;}
+  .fashion-collection-area,
+  .product-testimonial-area,
+  .new-arival-area,
+  .testimonial-area,
+  .blog-area,
+  .subscribe-area,
+  .our-special-feature-area,
+  .footer-top,
+  .our-special-feature-area.color-two,
+  .product-show-category-area,
+  .blog-area-two,
+  .partner-area,
+  .promo-area,
+  .about-area,
+  .counter-up-area,
+  .team-area,
+  .single-product-area,
+  .single-product-area .product-descriptions,
+  .cart-page-area,
+  .checkout-page-area,
+  .loginregistration-area,
+  .single-blog-page-area,
+  .shop-page-area,
+  .contact-area,
+  .error-page-area,
+  .fashion-static-block-area{padding: 40px 0;}
+  .slider-area .slider-1 .title-container div.slider-botton ul li a {
+    font-size: 10px;
+    padding: 7px 15px;
+  }
+  .slider-area .slider-1 .title-container div.slider-botton ul li.acitve a {
+    font-size: 10px;
+    padding: 7px 15px;
+  }
+  .slider-area .slider-2 h1{
+    color: #ffffff;
+  }
+  .fashion-collection-area .maen-wear .images a img {
+    width: 100%;
+  }
+  .fashion-collection-area .men-shoes .images a img,
+  .fashion-collection-area .men-belt .images a img {
+    margin: 0 0 10px;
+    width: 100%;
+  }
+  .tab-button ul.nav.nav-tabs a {
+    padding: 10px;
+  }
+  .total-product .owl-buttons {
+    top: -40px;
+  }
+  .total-product {
+    margin-left: 0;
+  }
+  .product-testimonial-area .total-product-testimonial .single-product-testimonial {
+    padding-right: 0;
+  }
+  .subscribe-area .subscribe h2 {
+    font-size: 18px;
+  }
+  .subscribe-area .subscribe form {
+   margin-left: 0; 
+  }
+  .subscribe-area .subscribe form button {
+    margin-left: 15px;
+  }
+  .widget {
+    margin-bottom: 30px;
+  }
+  .footer-buttom p {
+    text-align: center;
+  }
+  .footer-buttom img {
+    display: none;
+  }
+  .home-three-new-arival-area .new-arival-slider .single-arival {
+    margin-bottom: 30px;
+  }
+  .shop-page-area .shop-area .tobar-area {
+    text-align: center;
+  }
+  .showing-result,
+  .single-product-area .single-product-image {
+    margin-bottom: 20px;
+  }
+  .shop-page-area .product-list-view-area .list-single-product .media a {
+    float: inherit !important;
+    margin-right: 0;
+  }
+  .cart-page-area .shopping-cart-form .shopping-cart-form-left {
+     padding: 20px;
+  }
+  .cart-page-area .shopping-cart-form .shopping-cart-form-left form input {
+  margin-bottom: 10px;
+  }
+  .loginregistration-area {
+    padding: 30px 0;
+  }
+  .blog-content-area > h3 {
+    font-size: 20px;
+  }
+  .single-blog-page-area .post-share .tags {
+    width: 100%;
+  }
+  .single-blog-page-area .post-share .social-shear {
+    text-align: left;
+    width: 100%;
+  }
+  .google-map {
+    margin-bottom: 30px;
+  }
+  .error-page-area .error-text::before {
+    display: none;
+  }
+  .error-text > h3{
+    font-size:14px;
+    margin: 0 0 6px;
+  }
+  .error-page-area .error-text h2 {
+    font-size: 36px;
+    margin-bottom: 18px;
+  }
+  .slider-area .slider-1 .title-container h1 {    font-size: 23px;  }
+  .slider-area .slider-1 .title-container div.title2, .slider-area .slider-2 div.title2, .slider-area .slider-3 .title-container div.title2 {    display: none;  }
+  .tab-button ul.nav.nav-tabs li {  margin: 3px;display:block; }
+  .nivo-directionNav a {  top: 20%;  }
+  .section-title h2::after {  left: 36px;  }
+  .product-testimonial-area .total-product-testimonial .single-product-testimonial h2 {font-size: 26px;  }
+  .new-arival-area .total-new-arival .owl-controls .owl-buttons { right: 7px;  top: -35px; }
+  .home-two-collection-area .new-trend-men .collect-details h2 {  font-size: 19px;  }
+  .blog-area-two .single-blog2 .blog-content {    padding: 0 0 60px;  }
+  .partner-area .partner ul li {width: 100%;  }
+  .slider-area .slider-3 .title-container h1 {  font-size: 16px;  }
+  .home-three-new-arival-area .new-arival-slider .owl-controls .owl-buttons {top: -30px; }
+  .promo-area .promo h2 {    font-size: 22px;  }
+  .read-more a {font-size: 14px;  padding: 5px 20px;  }
+  .promo-area .promo span {  font-size: 20px;  }
+  .blog-slider .single-blog-area .single-blog2 .blog-content {    padding: 0;  }
+  .fashion-static-block-area .single-static-block img {margin-bottom: 10px; }
+  .counter-up-area .ab-count .about-counter-list h1.about-counter {height: 140px;line-height: 140px; width: 140px;  }
+  .subscribe-area .subscribe form button { width: 90%;  }
+  .team-area .team-slider .single-team { margin-bottom: 30px;  }
+  .pagination-area ul li a { width: 32px;  }
+  .shop-page-area .product-list-view-area .list-single-product .media .media-body h4.media-heading a {font-size: 16px;  }
+  .cart-page-area .table-button-area .button-area .button { text-align: center; width: 100%;}
+  .cart-page-area .table-button-left {float: inherit !important;margin-right: 0;text-align: center;width: 100%;}
+  .cart-page-area .table-button-right { float: inherit !important; margin-left: 0;    width: 100%;  }
+  .cart-page-area .table-button-right ul li { margin: 20px 0;display: block;}
+  .left-checkout,
+  .right-checkout { float: inherit !important;  margin-right: 0;  width: 100%;}
+  .contact-area .form-area .section-title h2::after {    left: 30px;  }
+  .error-page-area .error-text h2 span, .error-page-area .error-text h2 { font-size: 24px;  }
+  .shop-page-area .shop-area .tobar-area .view-area ul.nav-tabs { text-align: center;  }
+  .home-two-collection-area .new-trend-men .collect-details .read-more a { padding: 2px 20px;  }
+  .loginregistration-area .registration-area h2,
+  .loginregistration-area .login-area h2{font-size: 18px;}
+  header .main-menu ul li.megamenu .mega-menu-area {width: 730px;}
+  .fashion-collection-area .best-collection .collect-details p{display: none;}
+  .fashion-collection-area .best-collection {    padding: 97px 20px;}
+  .footer-top .widget {    margin-bottom: 30px;}
+  .blog-area .single-blog { padding: 10px 10px 48px 10px;}
+  .home-three-new-arival-area .new-arival-slider .single-arival .arival-information h3 a {font-size: 22px;}
+  .footer-top .widget .footer-three .social-media ul{text-align: left;}
+  .loginregistration-area .login-area {padding: 0px 0 30px 0;}
+  .slider-area .slider-2 div.title2 { font-size: 14px;}
+  .slider-area.home-two .slider-2 div.title2 {    padding: 0 1% 0 0 !important;}
+  .slider-area.slider-three .slider-3 .title-container div.title2 {padding-right: 2px; font-size: 14px;}
+  .about-content {    margin-bottom: 30px;}
+  .single-blog-page-area .sidebar-area{margin-top: 30px;}
+.single-product-area .product-details .product-content h3 {font-size: 16px; font-weight: 600;}
+.cart-page-area .shopping-cart-form .shopping-cart-form-left form button { width: 100%;}
+.slider-area .slider-2 h1 {  font-size: 24px;}
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {  .header-area{display: none;}
+  .main-menu-three{display:none;}
+  .mobile-menu-area{display: block;}
+  /*Home Page*/
+  header .main-menu ul li {
+    padding: 30px 8px;
+  }
+  .page-header-area {
+    padding: 60px 0;
+  }
+  .page-header-area h2 {
+    font-size: 24px;
+  }
+  .loginregistration-area .login-area fieldset .btn-send {
+    padding: 10px 24px;
+  }
+  .loginregistration-area .registration-area fieldset .btn-send {
+    font-size: 12px;
+  }
+  .blog-area .single-blog .blog-details h3 a {
+    float: inherit;
+    margin-bottom: 20px;
+  }
+  .fashion-collection-area .best-collection {
+     padding: 15px;
+  }
+  .fashion-collection-area .best-collection .collect-details p {
+    padding-right:0px;
+  }
+  .counter-down .simply-section {
+    width:115px;
+  }
+  .footer-top .widget .footer-three .social-media ul li a {
+    padding: 0 8px;
+  }
+  .our-special-feature-area .total-features .single-feature .details h3 a {
+    font-size: 20px;
+  }
+  .single-blog-page-area .blog-content-area blockquote {
+    margin-left: 0;
+  }
+  .error-page-area .error-text::before {
+    background-position:180px 0;
+  }
+  .error-page-area .error-text {
+    padding: 0px 20px;
+  }
+  .error-page-area .error-text input[type="submit"] {
+    right: 47px;
+  }
+  /* Spacing Issues */
+  .cart-page-area .shopping-cart-form {  margin-top: 60px;}
+  .home-two-collection-area,
+  .home-three-new-arival-area {padding: 0 0 60px;}
+  .fashion-static-block-area {padding: 100px 0 60px;}
+  #feature-product{padding-bottom: 60px;}
+  .fashion-collection-area,
+  .product-testimonial-area,
+  .new-arival-area,
+  .testimonial-area,
+  .blog-area,
+  .subscribe-area,
+  .our-special-feature-area,
+  .footer-top,
+  .our-special-feature-area.color-two,
+  .product-show-category-area,
+  .blog-area-two,
+  .partner-area,
+  .promo-area,
+  .about-area,
+  .counter-up-area,
+  .team-area,
+  .single-product-area,
+  .single-product-area .product-descriptions,
+  .cart-page-area,
+  .checkout-page-area,
+  .loginregistration-area,
+  .single-blog-page-area,
+  .shop-page-area,
+  .contact-area,
+  .error-page-area,
+  .fashion-static-block-area{padding: 40px 0;}
+  .slider-area .slider-1 .title-container div.slider-botton ul li a {
+    font-size: 10px;
+    padding: 7px 15px;
+  }
+  .slider-area .slider-1 .title-container div.slider-botton ul li.acitve a {
+    font-size: 10px;
+    padding: 7px 15px;
+  }
+  .slider-area .slider-2 h1{
+    color: #ffffff;
+  }
+  .fashion-collection-area .maen-wear .images a img {
+    width: 100%;
+  }
+  .fashion-collection-area .men-shoes .images a img,
+  .fashion-collection-area .men-belt .images a img {
+    margin: 0 0 10px;
+    width: 100%;
+  }
+  .tab-button ul.nav.nav-tabs a {
+    padding: 10px;
+  }
+  .total-product .owl-buttons {
+    top: -40px;
+  }
+  .total-product {
+    margin-left: 0;
+  }
+  .product-testimonial-area .total-product-testimonial .single-product-testimonial {
+    padding-right: 0;
+  }
+  .subscribe-area .subscribe h2 {
+    font-size: 18px;
+  }
+  .subscribe-area .subscribe form {
+   margin-left: 0; 
+  }
+  .subscribe-area .subscribe form button {
+    margin-left: 15px;
+  }
+  .widget {
+    margin-bottom: 30px;
+  }
+  .footer-buttom p {
+    text-align: center;
+  }
+  .footer-buttom img {
+    display: none;
+  }
+  .home-three-new-arival-area .new-arival-slider .single-arival {
+    margin-bottom: 30px;
+  }
+  .shop-page-area .shop-area .tobar-area {
+    text-align: center;
+  }
+  .showing-result,
+  .single-product-area .single-product-image {
+    margin-bottom: 20px;
+  }
+  .shop-page-area .product-list-view-area .list-single-product .media a {
+    float: inherit !important;
+    margin-right: 0;
+  }
+  .cart-page-area .shopping-cart-form .shopping-cart-form-left {
+     padding: 20px;
+  }
+  .cart-page-area .shopping-cart-form .shopping-cart-form-left form input {
+  margin-bottom: 10px;
+  }
+  .loginregistration-area {
+    padding: 30px 0;
+  }
+  .blog-content-area > h3 {
+    font-size: 20px;
+  }
+  .single-blog-page-area .post-share .tags {
+    width: 100%;
+  }
+  .single-blog-page-area .post-share .social-shear {
+    text-align: left;
+    width: 100%;
+  }
+  .google-map {
+    margin-bottom: 30px;
+  }
+  .error-page-area .error-text::before {
+    display: none;
+  }
+  .error-text > h3{
+    font-size:14px;
+    margin: 0 0 6px;
+  }
+  .error-page-area .error-text h2 {
+    font-size: 36px;
+    margin-bottom: 18px;
+  }
+  .slider-area .slider-1 .title-container h1 {    font-size: 23px;  }
+  .slider-area .slider-1 .title-container div.title2, .slider-area .slider-2 div.title2, .slider-area .slider-3 .title-container div.title2 {    display: none;  }
+  .tab-button ul.nav.nav-tabs li {  margin: 3px;display:block; }
+  .nivo-directionNav a {  top: 20%;  }
+  .section-title h2::after {  left: 36px;  }
+  .product-testimonial-area .total-product-testimonial .single-product-testimonial h2 {font-size: 26px;  }
+  .new-arival-area .total-new-arival .owl-controls .owl-buttons { right: 7px;  top: -35px; }
+  .home-two-collection-area .new-trend-men .collect-details h2 {  font-size: 19px;  }
+  .blog-area-two .single-blog2 .blog-content {    padding: 0 0 60px;  }
+  .partner-area .partner ul li {width: 100%;  }
+  .slider-area .slider-3 .title-container h1 {  font-size: 16px;  }
+  .home-three-new-arival-area .new-arival-slider .owl-controls .owl-buttons {top: -30px; }
+  .promo-area .promo h2 {    font-size: 22px;  }
+  .read-more a {font-size: 14px;  padding: 5px 20px;  }
+  .promo-area .promo span {  font-size: 20px;  }
+  .blog-slider .single-blog-area .single-blog2 .blog-content {    padding: 0;  }
+  .fashion-static-block-area .single-static-block img {margin-bottom: 10px; }
+  .counter-up-area .ab-count .about-counter-list h1.about-counter {height: 140px;line-height: 140px; width: 140px;  }
+  .subscribe-area .subscribe form button { width: 90%;  }
+  .team-area .team-slider .single-team { margin-bottom: 30px;  }
+  .pagination-area ul li a { width: 32px;  }
+  .shop-page-area .product-list-view-area .list-single-product .media .media-body h4.media-heading a {font-size: 16px;  }
+  .cart-page-area .table-button-area .button-area .button { text-align: center; width: 100%;}
+  .cart-page-area .table-button-left {float: inherit !important;margin-right: 0;text-align: center;width: 100%;}
+  .cart-page-area .table-button-right { float: inherit !important; margin-left: 0;    width: 100%;  }
+  .cart-page-area .table-button-right ul li { margin: 20px 0;display: block;}
+  .left-checkout,
+  .right-checkout { float: inherit !important;  margin-right: 0;  width: 100%;}
+  .contact-area .form-area .section-title h2::after {    left: 30px;  }
+  .error-page-area .error-text h2 span, .error-page-area .error-text h2 { font-size: 24px;  }
+  .shop-page-area .shop-area .tobar-area .view-area ul.nav-tabs { text-align: center;  }
+  .home-two-collection-area .new-trend-men .collect-details .read-more a { padding: 2px 20px;  }
+  .loginregistration-area .registration-area h2,
+  .loginregistration-area .login-area h2{font-size: 18px;}
+  header .main-menu ul li.megamenu .mega-menu-area {width: 730px;}
+  .fashion-collection-area .best-collection .collect-details p{display: none;}
+  .fashion-collection-area .best-collection {    padding: 97px 20px;}
+  .footer-top .widget {    margin-bottom: 30px;}
+  .blog-area .single-blog { padding: 10px 10px 48px 10px;}
+  .home-three-new-arival-area .new-arival-slider .single-arival .arival-information h3 a {font-size: 22px;}
+  .footer-top .widget .footer-three .social-media ul{text-align: left;}
+  .loginregistration-area .login-area {padding: 0px 0 30px 0;}
+  .slider-area .slider-2 div.title2 { font-size: 14px;}
+  .slider-area.home-two .slider-2 div.title2 {    padding: 0 1% 0 0 !important;}
+  .slider-area.slider-three .slider-3 .title-container div.title2 {padding-right: 2px; font-size: 14px;}
+  .about-content {    margin-bottom: 30px;}
+  .single-blog-page-area .sidebar-area{margin-top: 30px;}
+.single-product-area .product-details .product-content h3 {font-size: 16px; font-weight: 600;}
+.cart-page-area .shopping-cart-form .shopping-cart-form-left form button { width: 100%;}
+.slider-area .slider-2 h1 {  font-size: 24px;}
+
+}
